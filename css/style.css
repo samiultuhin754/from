@@ -1,0 +1,49 @@
+body{
+	background-color: ;
+}
+
+.wrapper{
+	width:60%;
+	margin:0 auto ;
+	border: 1px solid #626262;
+	
+
+}
+label{
+	font-size: 25px;
+}
+.first_name,.last_name,.email,.password{
+	width: 90%;
+	height: 25px;
+	padding: 10px;
+	font-size: 18px;
+}
+.massage{
+	font-size: 18px;
+	padding: 10px;
+}
+
+.load{
+	text-align: center;
+	padding: 70px 0;
+
+}
+.load button{
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+	font-weight: 400;
+	color: black;
+	width: 165px;
+	height: 60px;
+	background-color: transparent;
+	border: 1px solid #626262;
+	cursor: pointer;
+	transition: .5s;
+	background-color: green
+
+}
+.load button:hover{
+	/*background-color: #626262;
+	color: white;*/
+
+}
